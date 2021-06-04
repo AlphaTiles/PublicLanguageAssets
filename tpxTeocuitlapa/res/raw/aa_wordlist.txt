@@ -1,168 +1,168 @@
-Spanish	Me'phaa
-culebra	a̱bu̱n'
-marrano	a̱ga
-fuego	agu'
-sol	a̱jka̱'
-num004	a̱jku̱
-hormiga	ajkuáan
-num002	a̱jma̱
-musica	ajmúú
-num003	ajtsú
-embarazada	a̱khi̱i̱
-adobe	á'khu̱
-padre	ana̱
-elote	a̱nu̱'
-venado	a̱ŋa̱'
-cuello	aphu
-su_estomago	aúun
-precio_medida	awan
-ajo	áxú
-mujer	a̱'gu̱
-abeja	a̱'ma
-iguana	a̱'u̱u̱n
-cuchara	chálá
-oreja	chá'un
-guajolote	chéjmbáa
-machete	chídí
-lagartija	chíjndu
-cuchillo	chílú
-olla	daan
-chile	duun
-nube	du̱u̱n
-zopilote	dxá'an
-muchacho	dxáma
-muchacha	dxá'gú
-zorro	egi̱
-pez	e̱gi̱'
-tuza	e̱jŋgi̱i̱'
-campamocha	e̱tsu̱u̱n'
-canasta	extu'
-mosquito	e̱xu̱'
-sangre	e'di
-puesto_vert_uno	frígu
-armadillo	ga̱a̱'
-mapache	ga̱yú
-luna	gu̱n'
-humo	gúní
-palma	ida
-su_ojo	iduu
-sal	idú
-jicama	íga
-ninyos	i̱ji̱n
-hoja	iná
-viento	i̱ŋá'
-piedra	itsí
-hueso	itsu̱
-maiz	ixí
-arbol	ixi̱
-agua	iya'
-papel	i̱yi̱i̱'
-correcaminos	í'dúun
-derecho	jmbu
-pantalones	jmuu
-falda	jnóo
-num007	juan
-arena	jui̱'i̱
-y	kamí
-camino	khambaa
-montanya	khúbá
-comadreja	khu̱u̱n'
-cucaracha	ki̱xua̱a̱
-naranja	láxá
-cebolla	mágá
-num006	majun
-rio	mañu
-rojo	maŋa'
-verde	maxa'
-alto	mba̱yi̱i̱'
-num001	mbóó
-noche	mbro'on
-efectivo	mbújkáa
-cielo	mekhu
-num008	migiñu'
-caliente	mijka
-num009	mijnau̱wa̱'
-azul	mi'ñuu
-blanco	mi'xá
-gato	míxtúun
-oveja	mugu̱
-amarillo	mu̱jmu̱'
-enfermo	nakháñuu
-basura	náska
-vela	ndélá
-canya	ndiin
-guayaba	ndijia'
-fiesta	ndxa̱a̱
-vidrio	niwan'
-mosca	ñu̱ju̱
-mundo	numbaa'
-mecate	ñuñuu
-pajaro	ñu̱'u̱
-lodo	ŋgaxa'
-mariposa	pi̱jpí
-tomate	ra̱mbu̱
-huarache	raxtá
-flor	ri̱'i̱
-botella	ru̱jtu̱
-tarantula	ru̱ndi̱i̱n
-guajolota	rundú'
-carbon	rutá
-canoa	ruwa'
-gorgojo	ruxi
-lluvia	ru'wa
-negro	skuni'
-tos	ta̱'a̱
-medicina	thana
-algunos	tikhuu
-ciruela	tsídíin
-cacahuate	tsíjmbaa'
-raton	tsi̱jní
-chivo	tsu̱jtoon'
-colibri	tsu̱'tsún'
-tortilla	uma
-tortuga	u̱'tsi̱
-atole	úwan'
-num010	u̱wa̱'
-mujeres	u̱'u̱
-conejo	wa̱jin
-rebozo	wáñú
-gallo	wa̱xtá
-num005	witsu
-hongo	wíxa'
-persona	xa̱bu̱
-rastrojo	xadoo'
-tabla	xajpa
-platano	xáma
-cangrejo	xa̱wí'
-bosque	xaxi
-milpa	xaxtu
-vaca	xedi̱
-pajaro_carpintero	xi̱da̱'
-grillo	xijŋgrí
-aranya	xina'
-alacran	xi̱yú'
-libelula	xka̱da̱'
-escoba	xka'á
-derrumbe	xki̱jka̱
-garrapata	xki̱'xi
-puerta	xkrugua
-semilla_para_comer	xkuun
-pluma	xna'
-huevo	xndú
-pueblo	xojin
-resorte	xtá
-sombrero	xtédi̱
-ropa	xtíin
-pollo	xtílá
-murcielago	xtí'khú
-una_sola_milpa	xto̱o̱
-servilleta	xtúmi̱
-jicara	xua̱a̱
-perro	xu̱wán'
-ardilla	ya̱a̱'
-frijol	yaja
-miel	ya'tsáá'
-manteca	yejtsu̱
-polvo	yu̱jnda̱'
-cuervo	yu̱wa̱'
-maguey	yu'wa
+Spanish	Me'phaa	Duration	MixedTypes	Adjustment
+culebra	a̱bu̱n'	1474	X	0.91
+marrano	a̱ga	938	-	1
+fuego	agu'	762	-	1
+sol	a̱jka̱'	775	-	1
+num004	a̱jku̱	977	-	1
+hormiga	ajkuáan	1153	X	0.75
+num002	a̱jma̱	1435	-	1
+musica	ajmúú	1205	-	0.84
+num003	ajtsú	1096	-	1
+embarazada	a̱khi̱i̱	1372	-	0.84
+adobe	á'khu̱	1201	-	0.91
+padre	ana̱	996	C	1
+elote	a̱nu̱'	823	C	1
+venado	a̱ŋa̱'	1801	-	1
+cuello	aphu	1169	-	1
+su_estomago	aúun	1096	X	1
+precio_medida	awan	1413	X	1
+ajo	áxú	933	-	1
+mujer	a̱'gu̱	1474	-	1
+abeja	a̱'ma	1147	-	1
+iguana	a̱'u̱u̱n	1907	X	0.84
+cuchara	chálá	969	-	0.93
+oreja	chá'un	981	X	0.87
+guajolote	chéjmbáa	954	-	0.56
+machete	chídí	994	-	0.93
+lagartija	chíjndu	1293	-	0.76
+cuchillo	chílú	1015	-	0.95
+olla	daan	1180	X	1
+chile	duun	1049	X	1
+nube	du̱u̱n	1255	X	0.98
+zopilote	dxá'an	918	X	0.89
+muchacho	dxáma	1284	-	0.87
+muchacha	dxá'gú	1324	-	0.79
+zorro	egi̱	926	-	1
+pez	e̱gi̱'	912	-	1
+tuza	e̱jŋgi̱i̱'	1138	-	0.75
+campamocha	e̱tsu̱u̱n'	984	X	0.67
+canasta	extu'	1594	-	1
+mosquito	e̱xu̱'	1377	-	1
+sangre	e'di	967	-	1
+puesto_vert_uno	frígu	760	-	1
+armadillo	ga̱a̱'	1166	-	1
+mapache	ga̱yú	1220	-	0.98
+luna	gu̱n'	989	X	1
+humo	gúní	1141	C	1
+palma	ida	1125	-	1
+su_ojo	iduu	999	-	1
+sal	idú	861	-	1
+jicama	íga	1144	-	1
+ninyos	i̱ji̱n	834	X	1
+hoja	iná	753	C	1
+viento	i̱ŋá'	775	-	1
+piedra	itsí	1796	-	1
+hueso	itsu̱	1013	-	1
+maiz	ixí	1012	-	1
+arbol	ixi̱	1391	-	1
+agua	iya'	1008	-	1
+papel	i̱yi̱i̱'	1083	-	0.98
+correcaminos	í'dúun	1202	X	0.82
+derecho	jmbu	1280	-	1
+pantalones	jmuu	1110	-	1
+falda	jnóo	980	C	1
+num007	juan	793	X	1
+arena	jui̱'i̱	1122	-	1
+y	kamí	403	-	1
+camino	khambaa	1076	-	0.69
+montanya	khúbá	877	-	0.8
+comadreja	khu̱u̱n'	1271	X	0.76
+cucaracha	ki̱xua̱a̱	1360	-	0.69
+naranja	láxá	967	-	1
+cebolla	mágá	1522	-	0.93
+num006	majun	1400	X	1
+rio	mañu	1401	-	1
+rojo	maŋa'	883	-	1
+verde	maxa'	1250	-	1
+alto	mba̱yi̱i̱'	970	-	0.63
+num001	mbóó	955	-	0.84
+noche	mbro'on	1399	X	0.72
+efectivo	mbújkáa	1357	-	0.62
+cielo	mekhu	1508	-	0.91
+num008	migiñu'	1008	-	0.84
+caliente	mijka	1008	-	1
+num009	mijnau̱wa̱'	1541	C	0.54
+azul	mi'ñuu	991	-	0.93
+blanco	mi'xá	1046	-	1
+gato	míxtúun	1195	X	0.64
+oveja	mugu̱	1237	-	1
+amarillo	mu̱jmu̱'	842	-	0.72
+enfermo	nakháñuu	1130	C	0.6
+basura	náska	1201	C	0.98
+vela	ndélá	986	-	0.91
+canya	ndiin	1086	-	1
+guayaba	ndijia'	1480	-	1
+fiesta	ndxa̱a̱	1166	-	0.85
+vidrio	niwan'	1299	C234X6	0.95
+mosca	ñu̱ju̱	1400	-	1
+mundo	numbaa'	1180	C	0.76
+mecate	ñuñuu	1551	-	1
+pajaro	ñu̱'u̱	1082	-	1
+lodo	ŋgaxa'	1106	-	1
+mariposa	pi̱jpí	1089	-	0.98
+tomate	ra̱mbu̱	981	-	0.77
+huarache	raxtá	1660	-	1
+flor	ri̱'i̱	1122	-	1
+botella	ru̱jtu̱	955	-	0.98
+tarantula	ru̱ndi̱i̱n	1536	X	0.64
+guajolota	rundú'	1230	-	0.87
+carbon	rutá	914	-	1
+canoa	ruwa'	813	-	1
+gorgojo	ruxi	1307	-	1
+lluvia	ru'wa	1519	-	1
+negro	skuni'	1004	C	1
+tos	ta̱'a̱	940	-	1
+medicina	thana	1709	X	1
+algunos	tikhuu	1262	-	0.95
+ciruela	tsídíin	1430	X	0.79
+cacahuate	tsíjmbaa'	1460	-	0.65
+raton	tsi̱jní	704	C	0.95
+chivo	tsu̱jtoon'	1273	X	0.66
+colibri	tsu̱'tsún'	1501	X	0.66
+tortilla	uma	643	-	1
+tortuga	u̱'tsi̱	922	-	1
+atole	úwan'	1239	X	0.95
+num010	u̱wa̱'	918	-	1
+mujeres	u̱'u̱	1173	-	1
+conejo	wa̱jin	1045	X	1
+rebozo	wáñú	1473	-	0.91
+gallo	wa̱xtá	859	-	0.84
+num005	witsu	1223	-	1
+hongo	wíxa'	888	-	1
+persona	xa̱bu̱	1081	-	0.98
+rastrojo	xadoo'	1283	-	0.93
+tabla	xajpa	1236	-	1
+platano	xáma	1008	-	1
+cangrejo	xa̱wí'	1254	-	0.91
+bosque	xaxi	1183	-	1
+milpa	xaxtu	1450	-	1
+vaca	xedi̱	1393	-	1
+pajaro_carpintero	xi̱da̱'	994	-	1
+grillo	xijŋgrí	1149	-	0.84
+aranya	xina'	1193	C	1
+alacran	xi̱yú'	1360	-	0.95
+libelula	xka̱da̱'	1589	-	0.79
+escoba	xka'á	1105	-	1
+derrumbe	xki̱jka̱	1407	-	0.79
+garrapata	xki̱'xi	1206	-	0.95
+puerta	xkrugua	1150	-	0.75
+semilla_para_comer	xkuun	1050	X	1
+pluma	xna'	1162	C	1
+huevo	xndú	1148	-	1
+pueblo	xojin	898	X	1
+resorte	xtá	1242	-	1
+sombrero	xtédi̱	1275	-	0.93
+ropa	xtíin	922	X	1
+pollo	xtílá	915	-	1
+murcielago	xtí'khú	1279	-	0.73
+una_sola_milpa	xto̱o̱	1095	-	1
+servilleta	xtúmi̱	1357	-	0.85
+jicara	xua̱a̱	1388	-	1
+perro	xu̱wán'	1047	X	0.73
+ardilla	ya̱a̱'	1039	-	1
+frijol	yaja	1165	-	1
+miel	ya'tsáá'	1214	-	0.72
+manteca	yejtsu̱	1388	-	0.91
+polvo	yu̱jnda̱'	1147	-	0.72
+cuervo	yu̱wa̱'	1395	-	0.84
+maguey	yu'wa	1130	-	1
