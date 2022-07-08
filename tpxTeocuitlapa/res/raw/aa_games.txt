@@ -87,3 +87,6 @@ Door	Country	ChallengeLevel	Color	InstructionAudio	AudioDuration	SyllOrTile
 86	Colombia	2	1	zzz_colombia_2_3	3540	S
 87	Colombia	3	1	zzz_colombia_2_3	3540	S
 88	Myanmar	1	4	zzz_myanmar	22900	T
+89	Georgia	4	4	zzz_georgia	5985	T
+90	Georgia	5	4	zzz_georgia	5985	T
+91	Georgia	6	4	zzz_georgia	5985	T
