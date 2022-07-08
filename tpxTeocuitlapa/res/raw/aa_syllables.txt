@@ -1,218 +1,218 @@
-Syllable	Or1	Or2	Or3	SyllableAudioName	Duration
-a	á	á'	a̱	zs_a	1999
-á	a̱'	a	a̱	zs_a1	1999
-á'	á	a̱'	a̱	zs_a13	1999
-a̱	a	á'	a̱'	zs_a2	1999
-a̱'	a	á'	a̱	zs_a23	1999
-an	a	un	daan	zs_an	1999
-bá	bu̱	bu̱n'	du̱u̱n	zs_ba1	1999
-bu̱	bu̱n'	bá	dú	zs_bu2	1999
-bu̱n'	du̱u̱n	daan	un	zs_bu2n3	1999
-chá	chá'	ché	chí	zs_cha1	1999
-chá'	chá	ché	chí	zs_cha13	1999
-ché	chá	chá'	chí	zs_che1	1999
-chí	chá	chá'	ché	zs_chi1	1999
-da	da̱'	daan	di	zs_da	1999
-da̱'	da	daan	di	zs_da23	1999
-daan	da	da̱'	díin	zs_daan	1999
-di	da	dí	di̱	zs_di	1999
-dí	di	di̱	dú	zs_di1	1999
-di̱	da̱'	da	dú	zs_di2	1999
-díin	duun	dúun	du̱u̱n	zs_di1in	1999
-doo'	duu	dú	gu̱	zs_doo3	1999
-dú	duu	dí	di̱	zs_du1	1999
-duu	duun	dúun	du̱u̱n	zs_duu	1999
-duun	duu	dúun	du̱u̱n	zs_duun	1999
-dúun	duun	du̱u̱n	díin	zs_du1un	1999
-du̱u̱n	duun	dúun	díin	zs_du2u2n	1999
-dxá	dxá'	ga̱a̱'	da̱'	zs_dxa1	1999
-dxá'	dxá	ga̱a̱'	da̱'	zs_dxa13	1999
-e	e'	e̱	a	zs_e	1999
-e'	e	e̱	a	zs_e3	1999
-e̱	e	e'	a	zs_e2	1999
-frí	chí	gi	jia'	zs_fri1	1999
-ga	gá	ga̱a̱'	ga̱	zs_ga	1999
-gá	ga	ga̱	ga̱a̱'	zs_ga1	1999
-ga̱	ga	gá	ga̱a̱'	zs_ga2	1999
-ga̱a̱'	ga	gá	ga̱	zs_ga2a23	1999
-gi	gi̱	gi̱'	gu	zs_gi	1999
-gi̱	gi	gi̱'	gu	zs_gi2	1999
-gi̱'	gi	gi̱	gu'	zs_gi23	1999
-gu	gu'	gú	gu̱	zs_gu	1999
-gu'	gu	gú	gu̱	zs_gu3	1999
-gú	gu	gu'	gu̱	zs_gu1	1999
-gu̱	gu	gu'	gú	zs_gu2	1999
-gua	gu	gu̱n'	gu̱	zs_gua	1999
-gu̱n'	ji̱n	juan	gua	zs_gu2n3	1999
-i	í	í'	i̱	zs_i	1999
-í	i	í'	i̱	zs_i1	1999
-í'	i	í	i̱	zs_i13	1999
-i̱	i	í	í'	zs_i2	1999
-ja	jia'	jma̱	jmu̱'	zs_ja	1999
-jia'	ja	jin	ji̱n	zs_jia3	1999
-jin	jia'	ji̱n	jní	zs_jin	1999
-ji̱n	jia'	jin	jní	zs_ji2n	1999
-jka	jka̱	jka̱'	jkáa	zs_jka	1999
-jka̱	jka	jka̱'	jkáa	zs_jka2	1999
-jka̱'	jka	jka̱	jkáa	zs_jka23	1999
-jkáa	jka	jka̱	jka̱'	zs_jka1a	1999
-jku̱	jka̱	jmu̱'	jkuáan	zs_jku2	1999
-jkuáan	jku̱	jma̱	jkáa	zs_jkua1an	1999
-jma̱	jmbaa'	jmbáa	jmu̱'	zs_jma2	1999
-jmbaa'	jma̱	jmbáa	jmbu	zs_jmbaa3	1999
-jmbáa	jmbaa'	jmbu	jmu̱'	zs_jmba1a	1999
-jmbu	jmu̱'	jmuu	jmúú	zs_jmbu	1999
-jmu̱'	jmbu	jmuu	jmúú	zs_jmu23	1999
-jmuu	jmu̱'	jmúú	jndu	zs_jmuu	1999
-jmúú	jmuu	jmbu	jmu̱'	zs_jmu1u1	1999
-jna	jnda̱'	jndu	jní	zs_jna	1999
-jnda̱'	jna	jndu	jní	zs_jnda23	1999
-jndu	jnda̱'	jní	jnóo	zs_jndu	1999
-jní	jpí	jmu̱'	jnóo	zs_jni1	1999
-jnóo	jmuu	jmúú	jní	zs_jno1o	1999
-jŋgi̱i̱'	jŋgrí	jnóo	jndu	zs_jn4gi2i23	1999
-jŋgrí	jnóo	jŋgi̱i̱'	jndu	zs_jn4gri1	1999
-jpa	jpí	jui̱'	jun	zs_jpa	1999
-jpí	jpa	jtu̱	jui̱'	zs_jpi1	1999
-jtoon'	jtsú	jtsu̱	jtu̱	zs_jtoon3	1999
-jtsú	jtsu̱	jtu̱	ju̱	zs_jtsu1	1999
-jtsu̱	jtsú	jtu̱	ju̱	zs_jtsu2	1999
-jtu̱	jtsú	jtsu̱	ju̱	zs_jtu2	1999
-ju̱	jtu̱	juan	jui̱'	zs_ju2	1999
-juan	jun	jui̱'	ju̱	zs_juan	1999
-jui̱'	ju̱	juan	jun	zs_jui23	1999
-jun	juan	khu̱u̱n'	jui̱'	zs_jun	1999
-ka	kha	khá	na	zs_ka	1999
-kha	ka	khá	khu	zs_kha	1999
-khá	kha	khu	ka	zs_kha1	1999
-khi̱i̱	khá	khu	khú	zs_khi2i2	1999
-khu	khú	khu̱	khuu	zs_khu	1999
-khú	khu	khu̱	khuu	zs_khu1	1999
-khu̱	khu	khú	khu̱u̱n'	zs_khu2	1999
-khuu	khu	khu̱u̱n'	khu̱	zs_khuu	1999
-khu̱u̱n'	khuu	khu̱	khú	zs_khu2u2n3	1999
-ki̱	ka	ja	mi̱	zs_ki2	1999
-lá	ka	da̱'	bá	zs_la1	1999
-lú	lá	má	ná	zs_lu1	1999
-ma	má	me	mi	zs_ma	1999
-má	ma	me	mi	zs_ma1	1999
-mba̱	mbaa	mbaa'	mbu̱	zs_mba2	1999
-mbaa	mbaa'	mba̱	mbóó	zs_mbaa	1999
-mbaa'	mbaa	mbóó	mba̱	zs_mbaa3	1999
-mbóó	mbaa	mbaa'	mbro'	zs_mbo1o1	1999
-mbro'	mbóó	mbaa'	mbaa	zs_mbro3	1999
-mbú	mbu̱	mu	mí	zs_mbu1	1999
-mbu̱	mu̱	mba̱	mu	zs_mbu2	1999
-me	ma	mi	mu	zs_me	1999
-mi	ma	me	mu	zs_mi	1999
-mi'	mi	mí	mi̱	zs_mi3	1999
-mí	mi	mi'	mi̱	zs_mi1	1999
-mi̱	mi'	mí	mi	zs_mi2	1999
-mu	mi	me	ma	zs_mu	1999
-mu̱	mi̱	mbu̱	mba̱	zs_mu2	1999
-na	na'	ná	na̱	zs_na	1999
-na'	na	ná	na̱	zs_na3	1999
-ná	na	na'	na̱	zs_na1	1999
-na̱	na	na'	ná	zs_na2	1999
-ndé	ndi	ndiin	me	zs_nde1	1999
-ndi	ndé	ndiin	ndi̱i̱n	zs_ndi	1999
-ndiin	ndi	ndi̱i̱n	ndú'	zs_ndiin	1999
-ndi̱i̱n	ndiin	ndi	ndú'	zs_ndi2i2n	1999
-ndú'	ndi̱i̱n	ndxa̱a̱	nu̱'	zs_ndu13	1999
-ndxa̱a̱	ndiin	ndi̱i̱n	ndú'	zs_ndxa2a2	1999
-ni	mi	ni'	ní	zs_ni	1999
-ni'	ni	ní	nu̱'	zs_ni3	1999
-ní	ni	ni'	nu̱'	zs_ni1	1999
-nu	ni	nu̱'	ndú'	zs_nu	1999
-nu̱'	nu	ñu	ní	zs_nu23	1999
-ñu	ñu'	ñú	ñu̱	zs_nyu	1999
-ñu'	ñu	ñú	ñu̱	zs_nyu3	1999
-ñú	ñu	ñu'	ñu̱	zs_nyu1	1999
-ñu̱	ñu	ñu'	ñu̱'	zs_nyu2	1999
-ñu̱'	ñu	ñu'	ñu̱	zs_nyu23	1999
-ñuu	ñu̱	ñu̱'	ñu	zs_nyuu	1999
-ŋa'	ŋá'	ŋa̱'	ŋga	zs_n4a3	1999
-ŋá'	ŋa'	ŋa̱'	ŋga	zs_n4a13	1999
-ŋa̱'	ŋa'	ŋá'	ŋga	zs_n4a23	1999
-ŋga	ŋa'	ŋá'	ŋa̱'	zs_n4ga	1999
-on	un	jun	an	zs_on	1999
-phu	khu	jtu̱	tsu	zs_phu	1999
-pi̱	ni	ri̱'	ti	zs_pi2	1999
-ra	ra̱	ru	ri̱'	zs_ra	1999
-ra̱	ra	ri̱'	ru̱	zs_ra2	1999
-ri̱'	ra̱	ru'	ta̱'	zs_ri23	1999
-ru	ru'	ru̱	ra̱	zs_ru	1999
-ru'	ru	ru̱	ra̱	zs_ru3	1999
-ru̱	ru	ru'	ra̱	zs_ru2	1999
-ska	sku	kha	khu	zs_ska	1999
-sku	ska	tsu	khu	zs_sku	1999
-tá	ta̱'	tha	ti	zs_ta1	1999
-ta̱'	tá	tha	na	zs_ta23	1999
-tha	ska	ti	tá	zs_tha	1999
-ti	tá	mi	gi	zs_ti	1999
-tsáá'	tsu̱u̱n'	ndxa̱a̱	jmbáa	zs_tsa1a13	1999
-tsí	tsi̱	tsu	tsu̱	zs_tsi1	1999
-tsi̱	tsí	tsu	tsu̱	zs_tsi2	1999
-tsu	tsí	tsi̱	tsu̱	zs_tsu	1999
-tsu̱	tsi̱	tsu	tsu̱'	zs_tsu2	1999
-tsu̱'	tsu̱	tsu	tsi̱	zs_tsu23	1999
-tsún'	tsu̱'	tsu̱u̱n'	tsu̱	zs_tsu1n3	1999
-tsu̱u̱n'	tsún'	khu̱u̱n'	tsu̱'	zs_tsu2u2n3	1999
-u	ú	u̱	u̱'	zs_u	1999
-ú	u	u̱	u̱'	zs_u1	1999
-u̱	u	ú	u̱'	zs_u2	1999
-u̱'	u	ú	u̱	zs_u23	1999
-un	úun	u̱u̱n	u	zs_un	1999
-úun	un	u̱u̱n	ú	zs_u1un	1999
-u̱u̱n	un	úun	u̱	zs_u2u2n	1999
-wa	wa'	wá	wa̱	zs_wa	1999
-wa'	wa	wá	wa̱	zs_wa3	1999
-wá	wa	wa'	wa̱	zs_wa1	1999
-wa̱	wa̱'	wá	wa'	zs_wa2	1999
-wa̱'	wa̱	wa'	wa̱	zs_wa23	1999
-wan	wan'	wán'	wa	zs_wan	1999
-wan'	wan	wán'	wa	zs_wan3	1999
-wán'	wan	wan'	wá	zs_wa1n3	1999
-wi	wí	wí'	xi	zs_wi	1999
-wí	wi	wí'	xí	zs_wi1	1999
-wí'	wi	wí	xí	zs_wi13	1999
-xa	xa'	xá	xa̱	zs_xa	1999
-xa'	xa	xá	xa̱	zs_xa3	1999
-xá	xa	xa'	xa̱	zs_xa1	1999
-xa̱	xa	xa'	xá	zs_xa2	1999
-xe	xa	xa'	xá	zs_xe	1999
-xi	xí	xi̱	xki̱	zs_xi	1999
-xí	xi̱	xi	xki̱'	zs_xi1	1999
-xi̱	xki̱	xi	xí	zs_xi2	1999
-xka'	xka̱	xki̱	xki̱'	zs_xka3	1999
-xka̱	xka'	xki̱	xki̱'	zs_xka2	1999
-xki̱	xki̱'	xka̱	xi	zs_xki2	1999
-xki̱'	xki̱	xka̱	xí	zs_xki23	1999
-xkru	xkuun	xndú	xki̱'	zs_xkru	1999
-xkuun	úun	khu̱u̱n'	tsu̱u̱n'	zs_xkuun	1999
-xna'	xndú	xtíin	xtá	zs_xna3	1999
-xndú	xna'	xkuun	xkru	zs_xndu1	1999
-xo	xtá	xté	xtí	zs_xo	1999
-xtá	xté	xtí	xtí'	zs_xta1	1999
-xté	xtá	xtí	xtí'	zs_xte1	1999
-xtí	xté	xtí'	xo	zs_xti1	1999
-xtí'	xtí	xtíin	xté	zs_xti13	1999
-xtíin	xtí'	xtí	xté	zs_xti1in	1999
-xto̱o̱	xo	xtu	xtúun	zs_xto2o2	1999
-xtu	xtu'	xtú	xtúun	zs_xtu	1999
-xtu'	xtu	xtú	xú	zs_xtu3	1999
-xtú	xtu	xtu'	xtúun	zs_xtu1	1999
-xtúun	xtú	xú	xtu'	zs_xtu1un	1999
-xú	xu̱	xu̱'	xua̱a̱	zs_xu1	1999
-xu̱	xú	xu̱'	xua̱a̱	zs_xu2	1999
-xu̱'	xú	xu̱	xua̱a̱	zs_xu23	1999
-xua̱a̱	xtúun	xú	xu̱'	zs_xua2a2	1999
-ya	ya'	ya̱a̱'	ye	zs_ya	1999
-ya'	ya	ya̱a̱'	ye	zs_ya3	1999
-ya̱a̱'	xua̱a̱	ya	ya'	zs_ya2a23	1999
-ye	ya	ya'	ya̱a̱'	zs_ye	1999
-yi̱i̱'	ya'	yu'	yú	zs_yi2i23	1999
-yu'	yi̱i̱'	ya'	yú	zs_yu3	1999
-yú	yu'	yú'	yu̱	zs_yu1	1999
-yú'	yu'	yú	yu̱	zs_yu13	1999
-yu̱	yu'	yú	yú'	zs_yu2	1999
+Syllable	Or1	Or2	Or3	SyllableAudioName	Duration	Color
+a	á	á'	a̱	zs_a	1999	0
+á	a̱'	a	a̱	zs_a1	1999	1
+á'	á	a̱'	a̱	zs_a13	1999	2
+a̱	a	á'	a̱'	zs_a2	1999	3
+a̱'	a	á'	a̱	zs_a23	1999	4
+an	a	un	daan	zs_an	1999	5
+bá	bu̱	bu̱n'	du̱u̱n	zs_ba1	1999	0
+bu̱	bu̱n'	bá	dú	zs_bu2	1999	1
+bu̱n'	du̱u̱n	daan	un	zs_bu2n3	1999	2
+chá	chá'	ché	chí	zs_cha1	1999	3
+chá'	chá	ché	chí	zs_cha13	1999	4
+ché	chá	chá'	chí	zs_che1	1999	5
+chí	chá	chá'	ché	zs_chi1	1999	0
+da	da̱'	daan	di	zs_da	1999	1
+da̱'	da	daan	di	zs_da23	1999	2
+daan	da	da̱'	díin	zs_daan	1999	3
+di	da	dí	di̱	zs_di	1999	4
+dí	di	di̱	dú	zs_di1	1999	5
+di̱	da̱'	da	dú	zs_di2	1999	0
+díin	duun	dúun	du̱u̱n	zs_di1in	1999	1
+doo'	duu	dú	gu̱	zs_doo3	1999	2
+dú	duu	dí	di̱	zs_du1	1999	3
+duu	duun	dúun	du̱u̱n	zs_duu	1999	4
+duun	duu	dúun	du̱u̱n	zs_duun	1999	5
+dúun	duun	du̱u̱n	díin	zs_du1un	1999	0
+du̱u̱n	duun	dúun	díin	zs_du2u2n	1999	1
+dxá	dxá'	ga̱a̱'	da̱'	zs_dxa1	1999	2
+dxá'	dxá	ga̱a̱'	da̱'	zs_dxa13	1999	3
+e	e'	e̱	a	zs_e	1999	4
+e'	e	e̱	a	zs_e3	1999	5
+e̱	e	e'	a	zs_e2	1999	0
+frí	chí	gi	jia'	zs_fri1	1999	1
+ga	gá	ga̱a̱'	ga̱	zs_ga	1999	2
+gá	ga	ga̱	ga̱a̱'	zs_ga1	1999	3
+ga̱	ga	gá	ga̱a̱'	zs_ga2	1999	4
+ga̱a̱'	ga	gá	ga̱	zs_ga2a23	1999	5
+gi	gi̱	gi̱'	gu	zs_gi	1999	0
+gi̱	gi	gi̱'	gu	zs_gi2	1999	1
+gi̱'	gi	gi̱	gu'	zs_gi23	1999	2
+gu	gu'	gú	gu̱	zs_gu	1999	3
+gu'	gu	gú	gu̱	zs_gu3	1999	4
+gú	gu	gu'	gu̱	zs_gu1	1999	5
+gu̱	gu	gu'	gú	zs_gu2	1999	0
+gua	gu	gu̱n'	gu̱	zs_gua	1999	1
+gu̱n'	ji̱n	juan	gua	zs_gu2n3	1999	2
+i	í	í'	i̱	zs_i	1999	3
+í	i	í'	i̱	zs_i1	1999	4
+í'	i	í	i̱	zs_i13	1999	5
+i̱	i	í	í'	zs_i2	1999	0
+ja	jia'	jma̱	jmu̱'	zs_ja	1999	1
+jia'	ja	jin	ji̱n	zs_jia3	1999	2
+jin	jia'	ji̱n	jní	zs_jin	1999	3
+ji̱n	jia'	jin	jní	zs_ji2n	1999	4
+jka	jka̱	jka̱'	jkáa	zs_jka	1999	5
+jka̱	jka	jka̱'	jkáa	zs_jka2	1999	0
+jka̱'	jka	jka̱	jkáa	zs_jka23	1999	1
+jkáa	jka	jka̱	jka̱'	zs_jka1a	1999	2
+jku̱	jka̱	jmu̱'	jkuáan	zs_jku2	1999	3
+jkuáan	jku̱	jma̱	jkáa	zs_jkua1an	1999	4
+jma̱	jmbaa'	jmbáa	jmu̱'	zs_jma2	1999	5
+jmbaa'	jma̱	jmbáa	jmbu	zs_jmbaa3	1999	0
+jmbáa	jmbaa'	jmbu	jmu̱'	zs_jmba1a	1999	1
+jmbu	jmu̱'	jmuu	jmúú	zs_jmbu	1999	2
+jmu̱'	jmbu	jmuu	jmúú	zs_jmu23	1999	3
+jmuu	jmu̱'	jmúú	jndu	zs_jmuu	1999	4
+jmúú	jmuu	jmbu	jmu̱'	zs_jmu1u1	1999	5
+jna	jnda̱'	jndu	jní	zs_jna	1999	0
+jnda̱'	jna	jndu	jní	zs_jnda23	1999	1
+jndu	jnda̱'	jní	jnóo	zs_jndu	1999	2
+jní	jpí	jmu̱'	jnóo	zs_jni1	1999	3
+jnóo	jmuu	jmúú	jní	zs_jno1o	1999	4
+jŋgi̱i̱'	jŋgrí	jnóo	jndu	zs_jn4gi2i23	1999	5
+jŋgrí	jnóo	jŋgi̱i̱'	jndu	zs_jn4gri1	1999	0
+jpa	jpí	jui̱'	jun	zs_jpa	1999	1
+jpí	jpa	jtu̱	jui̱'	zs_jpi1	1999	2
+jtoon'	jtsú	jtsu̱	jtu̱	zs_jtoon3	1999	3
+jtsú	jtsu̱	jtu̱	ju̱	zs_jtsu1	1999	4
+jtsu̱	jtsú	jtu̱	ju̱	zs_jtsu2	1999	5
+jtu̱	jtsú	jtsu̱	ju̱	zs_jtu2	1999	0
+ju̱	jtu̱	juan	jui̱'	zs_ju2	1999	1
+juan	jun	jui̱'	ju̱	zs_juan	1999	2
+jui̱'	ju̱	juan	jun	zs_jui23	1999	3
+jun	juan	khu̱u̱n'	jui̱'	zs_jun	1999	4
+ka	kha	khá	na	zs_ka	1999	5
+kha	ka	khá	khu	zs_kha	1999	0
+khá	kha	khu	ka	zs_kha1	1999	1
+khi̱i̱	khá	khu	khú	zs_khi2i2	1999	2
+khu	khú	khu̱	khuu	zs_khu	1999	3
+khú	khu	khu̱	khuu	zs_khu1	1999	4
+khu̱	khu	khú	khu̱u̱n'	zs_khu2	1999	5
+khuu	khu	khu̱u̱n'	khu̱	zs_khuu	1999	0
+khu̱u̱n'	khuu	khu̱	khú	zs_khu2u2n3	1999	1
+ki̱	ka	ja	mi̱	zs_ki2	1999	2
+lá	ka	da̱'	bá	zs_la1	1999	3
+lú	lá	má	ná	zs_lu1	1999	4
+ma	má	me	mi	zs_ma	1999	5
+má	ma	me	mi	zs_ma1	1999	0
+mba̱	mbaa	mbaa'	mbu̱	zs_mba2	1999	1
+mbaa	mbaa'	mba̱	mbóó	zs_mbaa	1999	2
+mbaa'	mbaa	mbóó	mba̱	zs_mbaa3	1999	3
+mbóó	mbaa	mbaa'	mbro'	zs_mbo1o1	1999	4
+mbro'	mbóó	mbaa'	mbaa	zs_mbro3	1999	5
+mbú	mbu̱	mu	mí	zs_mbu1	1999	0
+mbu̱	mu̱	mba̱	mu	zs_mbu2	1999	1
+me	ma	mi	mu	zs_me	1999	2
+mi	ma	me	mu	zs_mi	1999	3
+mi'	mi	mí	mi̱	zs_mi3	1999	4
+mí	mi	mi'	mi̱	zs_mi1	1999	5
+mi̱	mi'	mí	mi	zs_mi2	1999	0
+mu	mi	me	ma	zs_mu	1999	1
+mu̱	mi̱	mbu̱	mba̱	zs_mu2	1999	2
+na	na'	ná	na̱	zs_na	1999	3
+na'	na	ná	na̱	zs_na3	1999	4
+ná	na	na'	na̱	zs_na1	1999	5
+na̱	na	na'	ná	zs_na2	1999	0
+ndé	ndi	ndiin	me	zs_nde1	1999	1
+ndi	ndé	ndiin	ndi̱i̱n	zs_ndi	1999	2
+ndiin	ndi	ndi̱i̱n	ndú'	zs_ndiin	1999	3
+ndi̱i̱n	ndiin	ndi	ndú'	zs_ndi2i2n	1999	4
+ndú'	ndi̱i̱n	ndxa̱a̱	nu̱'	zs_ndu13	1999	5
+ndxa̱a̱	ndiin	ndi̱i̱n	ndú'	zs_ndxa2a2	1999	0
+ni	mi	ni'	ní	zs_ni	1999	1
+ni'	ni	ní	nu̱'	zs_ni3	1999	2
+ní	ni	ni'	nu̱'	zs_ni1	1999	3
+nu	ni	nu̱'	ndú'	zs_nu	1999	4
+nu̱'	nu	ñu	ní	zs_nu23	1999	5
+ñu	ñu'	ñú	ñu̱	zs_nyu	1999	0
+ñu'	ñu	ñú	ñu̱	zs_nyu3	1999	1
+ñú	ñu	ñu'	ñu̱	zs_nyu1	1999	2
+ñu̱	ñu	ñu'	ñu̱'	zs_nyu2	1999	3
+ñu̱'	ñu	ñu'	ñu̱	zs_nyu23	1999	4
+ñuu	ñu̱	ñu̱'	ñu	zs_nyuu	1999	5
+ŋa'	ŋá'	ŋa̱'	ŋga	zs_n4a3	1999	0
+ŋá'	ŋa'	ŋa̱'	ŋga	zs_n4a13	1999	1
+ŋa̱'	ŋa'	ŋá'	ŋga	zs_n4a23	1999	2
+ŋga	ŋa'	ŋá'	ŋa̱'	zs_n4ga	1999	3
+on	un	jun	an	zs_on	1999	4
+phu	khu	jtu̱	tsu	zs_phu	1999	5
+pi̱	ni	ri̱'	ti	zs_pi2	1999	0
+ra	ra̱	ru	ri̱'	zs_ra	1999	1
+ra̱	ra	ri̱'	ru̱	zs_ra2	1999	2
+ri̱'	ra̱	ru'	ta̱'	zs_ri23	1999	3
+ru	ru'	ru̱	ra̱	zs_ru	1999	4
+ru'	ru	ru̱	ra̱	zs_ru3	1999	5
+ru̱	ru	ru'	ra̱	zs_ru2	1999	0
+ska	sku	kha	khu	zs_ska	1999	1
+sku	ska	tsu	khu	zs_sku	1999	2
+tá	ta̱'	tha	ti	zs_ta1	1999	3
+ta̱'	tá	tha	na	zs_ta23	1999	4
+tha	ska	ti	tá	zs_tha	1999	5
+ti	tá	mi	gi	zs_ti	1999	0
+tsáá'	tsu̱u̱n'	ndxa̱a̱	jmbáa	zs_tsa1a13	1999	1
+tsí	tsi̱	tsu	tsu̱	zs_tsi1	1999	2
+tsi̱	tsí	tsu	tsu̱	zs_tsi2	1999	3
+tsu	tsí	tsi̱	tsu̱	zs_tsu	1999	4
+tsu̱	tsi̱	tsu	tsu̱'	zs_tsu2	1999	5
+tsu̱'	tsu̱	tsu	tsi̱	zs_tsu23	1999	0
+tsún'	tsu̱'	tsu̱u̱n'	tsu̱	zs_tsu1n3	1999	1
+tsu̱u̱n'	tsún'	khu̱u̱n'	tsu̱'	zs_tsu2u2n3	1999	2
+u	ú	u̱	u̱'	zs_u	1999	3
+ú	u	u̱	u̱'	zs_u1	1999	4
+u̱	u	ú	u̱'	zs_u2	1999	5
+u̱'	u	ú	u̱	zs_u23	1999	0
+un	úun	u̱u̱n	u	zs_un	1999	1
+úun	un	u̱u̱n	ú	zs_u1un	1999	2
+u̱u̱n	un	úun	u̱	zs_u2u2n	1999	3
+wa	wa'	wá	wa̱	zs_wa	1999	4
+wa'	wa	wá	wa̱	zs_wa3	1999	5
+wá	wa	wa'	wa̱	zs_wa1	1999	0
+wa̱	wa̱'	wá	wa'	zs_wa2	1999	1
+wa̱'	wa̱	wa'	wa̱	zs_wa23	1999	2
+wan	wan'	wán'	wa	zs_wan	1999	3
+wan'	wan	wán'	wa	zs_wan3	1999	4
+wán'	wan	wan'	wá	zs_wa1n3	1999	5
+wi	wí	wí'	xi	zs_wi	1999	0
+wí	wi	wí'	xí	zs_wi1	1999	1
+wí'	wi	wí	xí	zs_wi13	1999	2
+xa	xa'	xá	xa̱	zs_xa	1999	3
+xa'	xa	xá	xa̱	zs_xa3	1999	4
+xá	xa	xa'	xa̱	zs_xa1	1999	5
+xa̱	xa	xa'	xá	zs_xa2	1999	0
+xe	xa	xa'	xá	zs_xe	1999	1
+xi	xí	xi̱	xki̱	zs_xi	1999	2
+xí	xi̱	xi	xki̱'	zs_xi1	1999	3
+xi̱	xki̱	xi	xí	zs_xi2	1999	4
+xka'	xka̱	xki̱	xki̱'	zs_xka3	1999	5
+xka̱	xka'	xki̱	xki̱'	zs_xka2	1999	0
+xki̱	xki̱'	xka̱	xi	zs_xki2	1999	1
+xki̱'	xki̱	xka̱	xí	zs_xki23	1999	2
+xkru	xkuun	xndú	xki̱'	zs_xkru	1999	3
+xkuun	úun	khu̱u̱n'	tsu̱u̱n'	zs_xkuun	1999	4
+xna'	xndú	xtíin	xtá	zs_xna3	1999	5
+xndú	xna'	xkuun	xkru	zs_xndu1	1999	0
+xo	xtá	xté	xtí	zs_xo	1999	1
+xtá	xté	xtí	xtí'	zs_xta1	1999	2
+xté	xtá	xtí	xtí'	zs_xte1	1999	3
+xtí	xté	xtí'	xo	zs_xti1	1999	4
+xtí'	xtí	xtíin	xté	zs_xti13	1999	5
+xtíin	xtí'	xtí	xté	zs_xti1in	1999	0
+xto̱o̱	xo	xtu	xtúun	zs_xto2o2	1999	1
+xtu	xtu'	xtú	xtúun	zs_xtu	1999	2
+xtu'	xtu	xtú	xú	zs_xtu3	1999	3
+xtú	xtu	xtu'	xtúun	zs_xtu1	1999	4
+xtúun	xtú	xú	xtu'	zs_xtu1un	1999	5
+xú	xu̱	xu̱'	xua̱a̱	zs_xu1	1999	0
+xu̱	xú	xu̱'	xua̱a̱	zs_xu2	1999	1
+xu̱'	xú	xu̱	xua̱a̱	zs_xu23	1999	2
+xua̱a̱	xtúun	xú	xu̱'	zs_xua2a2	1999	3
+ya	ya'	ya̱a̱'	ye	zs_ya	1999	4
+ya'	ya	ya̱a̱'	ye	zs_ya3	1999	5
+ya̱a̱'	xua̱a̱	ya	ya'	zs_ya2a23	1999	0
+ye	ya	ya'	ya̱a̱'	zs_ye	1999	1
+yi̱i̱'	ya'	yu'	yú	zs_yi2i23	1999	2
+yu'	yi̱i̱'	ya'	yú	zs_yu3	1999	3
+yú	yu'	yú'	yu̱	zs_yu1	1999	4
+yú'	yu'	yú	yu̱	zs_yu13	1999	5
+yu̱	yu'	yú	yú'	zs_yu2	1999	0
