@@ -83,7 +83,7 @@ Door	Country	ChallengeLevel	Color	InstructionAudio	AudioDuration	SyllOrTile
 82	UnitedStates	3	2	zzz_united_states	6359	T
 83	Mexico	3	0	zzz_mexico	7877	T
 84	Colombia	3	1	zzz_colombia_2_3	3540	T
-85	Colombia	1	1	zzz_colombia_2_3	3540	S
+85	Colombia	1	1	zzz_colombia_1	3540	S
 86	Colombia	2	1	zzz_colombia_2_3	3540	S
 87	Colombia	3	1	zzz_colombia_2_3	3540	S
 88	Myanmar	1	4	zzz_myanmar	22900	T
