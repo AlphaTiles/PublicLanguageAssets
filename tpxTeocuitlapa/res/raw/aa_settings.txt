@@ -1,3 +1,4 @@
 Setting	Value
 1. Game 001 Scan Setting	1
 2. Has tile audio	TRUE
+3. After 12 checked trackers	1
