@@ -103,3 +103,4 @@ Door	Country	ChallengeLevel	Color	InstructionAudio	AudioDuration	SyllOrTile
 102	Georgia	4	2	zzz_georgia	5985	T
 103	Georgia	5	2	zzz_georgia	5985	T
 104	Georgia	6	2	zzz_georgia	5985	T
+105	Japan	1	3	zzz_georgia	5985	S
