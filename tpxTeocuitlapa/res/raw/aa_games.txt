@@ -74,7 +74,7 @@ Door	Country	ChallengeLevel	Color	InstructionAudio	AudioDuration	SyllOrTile
 73	Georgia	6	2	zzz_georgia	5985	S
 74	Brazil	1	2	zzz_brazil_consonant	2619	S
 75	Brazil	2	2	zzz_brazil_consonant	2619	S
-76	Brazil 	1	2	zzz_brazil_consonant	2619	T
+76	Brazil	1	2	zzz_brazil_consonant	2619	T
 77	Brazil	4	2	zzz_brazil_consonant	2619	T
 78	Georgia	2	4	zzz_georgia	5985	T
 79	Brazil	2	2	zzz_brazil_vowel	2812	T
