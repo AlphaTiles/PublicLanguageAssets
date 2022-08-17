@@ -1,0 +1,12 @@
+Color Name	Hex Code
+themePurple	#9C27B0
+themeBlue	#2196F3
+themeOrange	#F44336
+themeGreen	#4CAF50
+themeRed	#E91E63
+colorPrimary	#6200EE
+colorPrimaryDark	#3700B3
+colorAccent	#03DAC5
+yellow	#FFFF00
+green	#00FF00
+WHITE	#FFFFFF
