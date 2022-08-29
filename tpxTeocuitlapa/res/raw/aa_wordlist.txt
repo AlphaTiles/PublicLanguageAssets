@@ -97,7 +97,7 @@ vidrio	ni.wan'	1299	C234X6	0.95
 mosca	ñu̱.ju̱	1400	-	1
 mundo	nu.mbaa'	1180	C	0.76
 mecate	ñu.ñuu	1551	-	1
-pajaro	ñu̱.'u̱	1082	-	1
+pajaro	ñu̱'.u̱	1082	-	1
 lodo	ŋga.xa'	1106	-	1
 mariposa	pi̱.jpí	1089	-	0.98
 tomate	ra̱.mbu̱	981	-	0.77

@@ -5,10 +5,10 @@ Game Color Number	Color Name	Hex Code
 3	themeGreen	#4CAF50
 4	themeRed	#E91E63
 5	yellow	#FFFF00
-6	colorPrimary	#6200EE
-7	colorPrimaryDark	#3700B3
-8	colorAccent	#03DAC5
-9	WHITE	#FFFFFF
-10	green	#00FF00
-11	pink	#E37BE8
-12	orange	#F58414
+6	white	#000000
+7	dark green	#006600
+8	gray	#808080
+9	brown	#663300
+10	red	#FF0000
+11	magenta	#A50021
+12	dark green	#0000CC
