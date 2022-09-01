@@ -11,4 +11,4 @@ Game Color Number	Color Name	Hex Code
 9	brown	#663300
 10	red	#FF0000
 11	magenta	#A50021
-12	dark green	#0000CC
+12	blue	#0000CC
