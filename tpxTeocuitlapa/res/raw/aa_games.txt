@@ -108,7 +108,7 @@ Door	Country	ChallengeLevel	Color	InstructionAudio	AudioDuration	SyllOrTile
 107	Mexico	5	0	zzz_mexico	7877	T
 108	Myanmar	2	8	zzz_myanmar	22900	T
 109	UnitedStates	3	10	zzz_united_states	6359	T
-110	Japan	1	12	X	naWhileMPOnly	S
+110	Japan	2	12	X	naWhileMPOnly	S
 111	Myanmar	3	8	zzz_myanmar	22900	T
 112	China	1	9	X	naWhileMPOnly	T
 113	Colombia	3	1	zzz_colombia_2_3	3540	T
