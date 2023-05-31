@@ -6,6 +6,10 @@ Item	Answer
 5. Country	Mexico
 6. Variant info	ROD=2506
 7. Game Name (In Local Lang)	Mu̱ꞌtsíin meꞌphaa
-8. Script direction (LR or RL)	LTR
+8. Script direction (LTR or RTL)	LTR
 9. Audio and image credits	Imágenes diseñadas por Freepik (https://www.flaticon.es/autores/freepik) desde Flaticon (https://www.flaticon.es/). Compartidas con permiso. Audio compartido con permiso: mil gracias a Benito Apolinar Antonio, Catalina Antonio García, Leticia Eleucadio Cortez, Gregorio Leocadio Marcelino, Sandra Leocadio Martínez, Anabel Macario Flores, Emiliano Macedonio Flores, y Lety Morales Melo.
 10. The word NAME in local language	mbi'i
+11. Script type	Roman
+12. Email	alpha_tiles@sil.org
+13. Privacy Policy	https://alphatilesapps.org/privacypolicy.html
+14. Audio and image credits (lang 2)	none
