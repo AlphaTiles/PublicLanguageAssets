@@ -5,3 +5,5 @@ Setting	Value
 4. Stage correspondence ratio	0.75
 5. First letter stage correspondence	FALSE
 6. Stage 1-2 max word length	10
+7. Has syllable audio	TRUE
+8. Differentiates types of multitype symbols	FALSE
