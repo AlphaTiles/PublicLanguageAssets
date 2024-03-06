@@ -16,7 +16,7 @@ í	l	j	i̱	V	zz_i_alto	Í	none	X	none	X	0	0	0	-	-	-
 i̱	l	j	i	V	zz_i_bajo	I̱	none	X	none	X	0	0	0	-	-	-
 j	l	i	y	C	zz_j	J	none	X	none	X	0	0	0	-	-	-
 k	ŋ	g	x	C	zz_k	K	none	X	none	X	0	0	0	-	-	-
-kh	h	k	g	C	zz_kh	Kh	none	X	none	X	0	0	0	-	-	-
+kh	x	k	g	C	zz_kh	Kh	none	X	none	X	0	0	0	-	-	-
 l	j	i	y	C	zz_l	L	none	X	none	X	0	0	0	-	-	-
 m	ŋ	n	ñ	C	zz_m	M	none	X	none	X	0	0	0	-	-	-
 mb	m	d	b	C	zz_mb	Mb	none	X	none	X	0	0	0	-	-	-
@@ -30,7 +30,7 @@ o	a	o̱	ó	V	zz_o	O	none	X	none	X	0	0	0	-	-	-
 ó	á	é	o̱	V	zz_o_alto	Ó	none	X	none	X	0	0	0	-	-	-
 o̱	a̱	e̱	o	V	zz_o_bajo	O̱	none	X	none	X	0	0	0	-	-	-
 p	m	f	b	C	zz_p	P	none	X	none	X	0	0	0	-	-	-
-ph	h	p	b	C	zz_ph	Ph	none	X	none	X	0	0	0	-	-	-
+ph	f	p	b	C	zz_ph	Ph	none	X	none	X	0	0	0	-	-	-
 r	f	l	i	C	zz_r	R	none	X	none	X	0	0	0	-	-	-
 s	x	f	e	C	zz_s	S	none	X	none	X	0	0	0	-	-	-
 t	d	n	f	C	zz_t	T	none	X	none	X	0	0	0	-	-	-
