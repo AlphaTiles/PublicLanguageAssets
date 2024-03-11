@@ -7,7 +7,7 @@ Setting	Value
 6. Stage 1-2 max word length	10
 7. Has syllable audio	TRUE
 8. Differentiates types of multitype symbols	FALSE
-9. Chile keyboard width (Wordle)	7
-10. Chile base guess count (Wordle)	6
-11. Chile minimum word length (Wordle)	5
-12. Chile maximum word length (Wordle)	5
+9. Chile keyboard width	7
+10. Chile base guess count	6
+11. Chile minimum word length	5
+12. Chile maximum word length	5
