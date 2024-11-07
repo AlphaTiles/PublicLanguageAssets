@@ -10,4 +10,7 @@ Setting	Value
 9. Chile keyboard width	7
 10. Chile base guess count	6
 11. Chile minimum word length	5
-12. Chile maximum word length	5
+12. Chile maximum word length	6
+13. Stand-in base for combining tiles	 
+14. Bold Non-Initial Focus Tiles	TRUE
+15. Bold Initial Focus Tiles	TRUE
