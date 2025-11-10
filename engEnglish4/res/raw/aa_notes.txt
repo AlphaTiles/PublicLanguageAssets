@@ -1,0 +1,7 @@
+#	Project Notes (Will Appear in Validator Report)
+1	Confirm permissions with Matt, Laurel, Peter and Kris before publishing to Play Store or before adding to PuLA
+2	Skipping syllable games for now; only 11 of 328 words have 2+ syllables
+3	Tiles c and ck have the same sound. There are other pairs as well. Should we add a second audio column, distinguishing name (zz?) from sound( zp?)
+4	You haven't programmed anything like this yet, but you could include in game tiles the list of banned tiles, i.e. if |c| is the right answer, then |ck| can't be a choice. Same might go for banned words with words, banned
+5	c and ck and k are also interesting because it's a great "How do you complete the word "ba_"?, but it's not good if you're pronouncing a sound and saying which letter set, so you really could argue you need two different sets of distractors, one for form distinction (that maybe sound the same) and one for sound distinction (that definitely do NOT sound the same). And of course no matter what you choose, they will always NOT look the same.
+6	For now, just ensure c/ck/k are not distractors of the other. In short, the app does not currently support that c/ck/k are ideal distractors of the other for _actus but bad distractors for matching tile audio to c, ck, k or 4th choice
