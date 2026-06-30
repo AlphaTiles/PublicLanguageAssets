@@ -3,7 +3,7 @@ Setting	Value
 2. Show filter options for Game 001	FALSE
 3. Has tile audio	TRUE
 4. After 12 checked trackers	3
-5. Has syllable audio	FALSE
+5. Has syllable audio	TRUE
 6. Number of avatars	12
 7. Differentiates types of multitype symbols	TRUE
 8. Stage correspondence ratio	0.75
